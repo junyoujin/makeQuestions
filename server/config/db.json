@@ -1,0 +1,10 @@
+{
+    "development" : {
+        "host" : "localhost",
+        "username" : "sa",
+        "password" : "qwer!234",
+        "database" : "MQN",
+        "dialect" : "mysql",
+        "port" : "1433"
+    }
+}
